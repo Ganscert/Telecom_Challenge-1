@@ -27,7 +27,6 @@ Este libro explora el análisis de cancelación de clientes (churn) en una empre
    - pandas
    - matplotlib
    - seaborn
-   - plotly
 
 2. Coloca el archivo `TelecomX_Data.json` en el mismo directorio que el notebook.
 
