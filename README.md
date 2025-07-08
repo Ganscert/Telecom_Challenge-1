@@ -35,7 +35,7 @@ Este libro explora el análisis de cancelación de clientes (churn) en una empre
 ## Estructura del proyecto
 
 - `TelecomX_LATAM entregable.ipynb`: Notebook principal con todo el análisis.
-- `TelecomX_Data.json`: Fuente de datos (no incluida por privacidad).
+- `TelecomX_Data.json`: Fuente de datos.
 - Gráficos y resultados generados en el notebook.
 
 ## Autoría
