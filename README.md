@@ -44,4 +44,4 @@ Proyecto realizado como parte de un challenge de análisis de datos para Alura L
 
 ---
 
-¡Explora el notebook para más detalles y
+¡Explora el notebook para más detalles y visualizaciones!
